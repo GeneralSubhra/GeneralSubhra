@@ -28,35 +28,34 @@ I build and deploy AI systems, from production LLM applications and agentic work
 - 🐾 Founder of **[PawPew](https://www.pawpew.in)**, an animal rescue and adoption initiative.
 - 🔬 Focused on building useful, measurable, and responsible AI applications.
 
-## 🧩 Selected ML & AI Work
+## 🚀 Selected Work
 
-### 🏢 Enterprise AI Systems
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **DocAI Comparison:** Built an LLM-based compliance document comparison system, achieving 96% accuracy across 3,000+ checks.
-- **RIA:** Developed a hybrid-RAG regulatory chatbot using Azure AI Search and Azure OpenAI, serving 250+ weekly users.
-- **Company Research Agent:** Built a multi-agent research pipeline using Tavily, Kafka queues, and WebSocket streaming to generate company reports.
+### 🐾 [PawPew](https://www.pawpew.in)
 
-### 🐾 PawPew
-
-Founded and built [PawPew](https://www.pawpew.in), an animal-welfare platform for rescue reporting, verified-rescuer matching, GPS tracking, and adoption.
+Founded and built PawPew, an animal-welfare platform for rescue reporting, verified-rescuer matching, GPS tracking, and adoption.
 
 - Built **PawCareAI**, an LLM-powered veterinary first-response chatbot.
 - Supported by the **Sarvam startup program**.
 - Applying AI to make animal-welfare support more accessible.
 
-## 🚀 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🧬 [GenomixAI — DNA Variant Analysis](https://github.com/GeneralSubhra/variant-analysis-evo2)
 
-<a href="https://github.com/GeneralSubhra/variant-analysis-evo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeneralSubhra&repo=variant-analysis-evo2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Genomic variant analysis project card"/></a>
-<a href="https://www.pawpew.in"><img src="https://img.shields.io/badge/🐾%20PawPew-Animal%20Welfare-0ea5e9?style=for-the-badge" alt="PawPew"/></a>
+GPU-accelerated DNA mutation pathogenicity prediction using the Evo2 model.
 
-</div>
+- FastAPI backend with NVIDIA H100 inference.
+- Integrates ClinVar and UCSC Genome APIs.
+- Applying machine learning to genomic analysis.
 
-- 🧬 **[DNA Mutation Pathogenicity Prediction (Evo2)](https://github.com/GeneralSubhra/variant-analysis-evo2)** — GPU-accelerated mutation classification with a FastAPI backend, NVIDIA H100 inference, and ClinVar/UCSC Genome APIs.
-- 🐾 **[PawPew](https://www.pawpew.in)** — Rescue, adoption, and AI-powered pet assistance.
-- 🔬 **Kinesis BioDiscovery Cockpit** — An agentic AI application designed to accelerate single-cell biomedical discovery.
-- 📊 **Llama 3 + PandasAI** — Local natural-language data exploration with Ollama.
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
