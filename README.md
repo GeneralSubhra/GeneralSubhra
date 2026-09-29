@@ -85,16 +85,8 @@ GPU-accelerated AI platform for DNA variant pathogenicity analysis using **Evo2*
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/generalsubhra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://github.com/GeneralSubhra"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://youtube.com/@incognitocodelab"><img src="https://img.shields.io/badge/YouTube-Incognito%20CodeLab-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
-<a href="https://medium.com/@SubhranilPaul"><img src="https://img.shields.io/badge/Medium-Read%20my%20writing-000000?style=for-the-badge&logo=medium" alt="Medium"/></a>
-<a href="https://x.com/generalsubhra"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X"/></a>
-
-<br/><br/>
-
-*Building intelligent systems, from models to real-world impact.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer" width="100%" alt="Animated footer"/>
+<a href="https://www.linkedin.com/in/generalsubhra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://x.com/generalsubhra"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&nbsp;
+<a href="https://medium.com/@SubhranilPaul"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 
 </div>
