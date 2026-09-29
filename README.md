@@ -74,8 +74,8 @@ GPU-accelerated AI platform for DNA variant pathogenicity analysis using **Evo2*
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GeneralSubhra&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralSubhra&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee" alt="Most used languages"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeneralSubhra&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeneralSubhra&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com?user=GeneralSubhra&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
 
