@@ -20,10 +20,10 @@
 **Machine Learning Engineer | Generative AI | Applied ML**  
 📍 Kolkata, India · Open to relocation
 
-I build and deploy AI systems, from production LLM applications and agentic workflows to biomedical machine learning. I enjoy taking ideas from experimentation to reliable, real-world systems.
+Machine Learning Engineer specializing in Generative AI, LLM applications, and agentic systems. I build and deploy production-grade RAG pipelines, multi-agent workflows, and AI-powered automation, with a focus on scalable, reliable, and measurable AI solutions.
 
-- 💼 **Machine Learning Engineer at TeamLease RegTech**, building enterprise AI and compliance intelligence systems.
-- 🧠 Working across **LLMs, RAG, agentic AI, model evaluation, and AI-powered automation**.
+- 💼 **Machine Learning Engineer at TeamLease RegTech**, building production AI systems for regulatory and compliance workflows.
+- 🧠 Focused on **LLMs, RAG, agentic AI, model evaluation, and AI-powered automation**.
 - 🧬 Interested in **genomic variant analysis, bioinformatics, and biomedical AI**.
 - 🐾 Founder of **[PawPew](https://www.pawpew.in)**, an animal rescue and adoption initiative.
 - 🔬 Focused on building useful, measurable, and responsible AI applications.
@@ -38,20 +38,20 @@ I build and deploy AI systems, from production LLM applications and agentic work
 
 An animal-welfare platform for rescue reporting, verified-rescuer matching, GPS tracking, and adoption.
 
-- Built **PawCareAI**, an LLM-powered veterinary first-response chatbot.
-- Supported by the **Sarvam startup program**.
-- Using AI to make animal-welfare support more accessible.
+- Built **PawCareAI**, an LLM-powered chatbot offering first-response guidance for injured or sick animals.
+- Building technology to make animal-welfare support more accessible.
+- Selected for the **Sarvam startup program**.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧬 [GenomixAI — DNA Variant Analysis](https://github.com/GeneralSubhra/variant-analysis-evo2)
 
-GPU-accelerated DNA mutation pathogenicity prediction using the Evo2 model.
+A GPU-accelerated platform using the Evo2 model to predict DNA mutation pathogenicity.
 
-- FastAPI backend with NVIDIA H100 inference.
+- Serverless FastAPI backend with NVIDIA H100 inference.
 - Integrates ClinVar and UCSC Genome APIs.
-- Applying machine learning to genomic analysis.
+- Built with Python, Evo2, FastAPI, and Modal.
 
 </td>
 </tr>
@@ -65,9 +65,9 @@ GPU-accelerated DNA mutation pathogenicity prediction using the Evo2 model.
 
 </div>
 
-**AI/ML:** Machine Learning · LLMs · RAG · Agentic AI · Prompt Engineering · Fine-tuning · vLLM · Guardrails · NLP · Computer Vision  
-**Frameworks:** PyTorch · Hugging Face · LangChain · LangGraph · FastAPI · Next.js  
-**Infrastructure & Data:** Azure OpenAI · Azure AI Search · AWS · GCP · Kafka · PostgreSQL · MongoDB · Pinecone · FAISS · MLflow
+**AI/ML:** Machine Learning · Deep Learning · NLP · Generative AI · LLMs · RAG · Agentic AI · Fine-tuning · Computer Vision  
+**Frameworks:** PyTorch · TensorFlow · Scikit-learn · Hugging Face · LangChain · LangGraph · FastAPI · Flask  
+**Infrastructure & Data:** Azure OpenAI · Azure AI Search · AWS · GCP · Docker · Kafka · PostgreSQL · MySQL · MongoDB · FAISS · Pinecone · MLflow · Weights & Biases
 
 ## 📈 GitHub Dashboard
 
