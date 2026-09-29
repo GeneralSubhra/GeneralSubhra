@@ -25,7 +25,6 @@ Machine Learning Engineer specializing in Generative AI, LLM applications, and a
 - 💼 **Machine Learning Engineer at TeamLease RegTech**, building production AI systems for regulatory and compliance workflows.
 - 🧠 Focused on **LLMs, RAG, agentic AI, model evaluation, and AI-powered automation**.
 - 🧬 Interested in **genomic variant analysis, bioinformatics, and biomedical AI**.
-- 🐾 Founder of **[PawPew](https://www.pawpew.in)**, an animal rescue and adoption initiative.
 - 🔬 Focused on building useful, measurable, and responsible AI applications.
 
 ## 🚀 Featured Project
