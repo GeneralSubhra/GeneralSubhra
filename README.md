@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,45:312e81,100:06b6d4&text=SUBHRANIL%20PAUL&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=ML%20ENGINEER%20%7C%20GENAI%20%7C%20DEVELOPER%20ADVOCATE&descAlignY=57&animation=fadeIn" width="100%" alt="Animated profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,45:312e81,100:06b6d4&text=SUBHRANIL%20PAUL&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=MACHINE%20LEARNING%20ENGINEER%20%7C%20GENERATIVE%20AI&descAlignY=57&animation=fadeIn" width="100%" alt="Animated profile banner"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+production+LLM+systems;Agentic+AI+%7C+RAG+%7C+Applied+Machine+Learning;From+developer+communities+to+real-world+AI;Building+technology+with+purpose+%F0%9F%90%BE" alt="Animated typing tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+production-ready+ML+systems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Agentic+AI;Applied+Machine+Learning+%26+Biomedical+AI;Turning+research+into+real-world+applications" alt="Animated typing tagline"/>
 </a>
 
 <br/>
@@ -17,63 +17,32 @@
 
 ## 👋 Hey, I'm Subhranil
 
-**Machine Learning Engineer · Technical Speaker · Developer Community Builder**  
+**Machine Learning Engineer | Generative AI | Applied ML**  
 📍 Kolkata, India · Open to relocation
 
-I ship production LLM systems and help developers learn to build them. My work spans enterprise AI, agentic research workflows, biomedical ML, and technology for animal welfare.
+I build and deploy AI systems, from production LLM applications and agentic workflows to biomedical machine learning. I enjoy taking ideas from experimentation to reliable, real-world systems.
 
 - 💼 **Machine Learning Engineer at TeamLease RegTech** — promoted from AI Intern.
-- 🧠 Building with **LLMs, RAG, agentic AI, evaluation, and AI-powered automation**.
-- 🐾 Founder of **[PawPew](https://www.pawpew.in)**, an animal rescue and adoption nonprofit initiative.
-- 🧬 Exploring AI for **genomic variant analysis and biomedical discovery**.
-- 🎤 50+ technical talks and demos reaching 10,000+ developers.
-- 🌏 Helped lead developer communities, events, and learning programs across the ecosystem.
+- 🧠 Working across **LLMs, RAG, agentic AI, model evaluation, and AI-powered automation**.
+- 🧬 Interested in **genomic variant analysis, bioinformatics, and biomedical AI**.
+- 🐾 Founder of **[PawPew](https://www.pawpew.in)**, an animal rescue and adoption initiative.
+- 🔬 Focused on building useful, measurable, and responsible AI applications.
 
-## ✨ Impact in Practice
+## 🧩 Selected ML & AI Work
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%"><h2>96%</h2><sub>DocAI comparison accuracy</sub></td>
-<td align="center" width="25%"><h2>3,000+</h2><sub>Compliance checks</sub></td>
-<td align="center" width="25%"><h2>2,000</h2><sub>RIA queries / week</sub></td>
-<td align="center" width="25%"><h2>50+</h2><sub>Company reports / week</sub></td>
-</tr>
-<tr>
-<td align="center"><h2>500+</h2><sub>PawPew users</sub></td>
-<td align="center"><h2>70+</h2><sub>Animals helped</sub></td>
-<td align="center"><h2>10+</h2><sub>Rescue partners</sub></td>
-<td align="center"><h2>50+</h2><sub>Technical talks</sub></td>
-</tr>
-</table>
-</div>
+### 🏢 Enterprise AI Systems
 
-## 🧩 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Enterprise AI
-- **DocAI Comparison:** LLM-based compliance document matching, achieving 96% accuracy across 3,000+ checks.
-- **RIA:** Hybrid-RAG regulatory chatbot built with Azure AI Search and Azure OpenAI, serving 250+ weekly users.
-- **Company Research Agent:** Multi-agent research pipeline producing 50+ reports weekly using Tavily, Kafka queues, and WebSocket streaming.
-
-</td>
-<td width="50%" valign="top">
+- **DocAI Comparison:** Built an LLM-based compliance document comparison system, achieving 96% accuracy across 3,000+ checks.
+- **RIA:** Developed a hybrid-RAG regulatory chatbot using Azure AI Search and Azure OpenAI, serving 250+ weekly users.
+- **Company Research Agent:** Built a multi-agent research pipeline using Tavily, Kafka queues, and WebSocket streaming to generate company reports.
 
 ### 🐾 PawPew
-Founded and built an animal-welfare platform for rescue reporting, verified-rescuer matching, GPS tracking, and adoption.
 
-- 500+ users within 3 months
-- 70+ animals helped
-- 10+ rescue partners
-- **PawCareAI**, an LLM veterinary first-response chatbot
-- Supported by the **Sarvam startup program**
+Founded and built [PawPew](https://www.pawpew.in), an animal-welfare platform for rescue reporting, verified-rescuer matching, GPS tracking, and adoption.
 
-</td>
-</tr>
-</table>
+- Built **PawCareAI**, an LLM-powered veterinary first-response chatbot.
+- Supported by the **Sarvam startup program**.
+- Applying AI to make animal-welfare support more accessible.
 
 ## 🚀 Featured Projects
 
@@ -86,7 +55,7 @@ Founded and built an animal-welfare platform for rescue reporting, verified-resc
 
 - 🧬 **[DNA Mutation Pathogenicity Prediction (Evo2)](https://github.com/GeneralSubhra/variant-analysis-evo2)** — GPU-accelerated mutation classification with a FastAPI backend, NVIDIA H100 inference, and ClinVar/UCSC Genome APIs.
 - 🐾 **[PawPew](https://www.pawpew.in)** — Rescue, adoption, and AI-powered pet assistance.
-- 🔬 **Kinesis BioDiscovery Cockpit** — Agentic AI application designed to accelerate single-cell biomedical discovery.
+- 🔬 **Kinesis BioDiscovery Cockpit** — An agentic AI application designed to accelerate single-cell biomedical discovery.
 - 📊 **Llama 3 + PandasAI** — Local natural-language data exploration with Ollama.
 
 ## 🛠️ Tech Stack
@@ -97,19 +66,9 @@ Founded and built an animal-welfare platform for rescue reporting, verified-resc
 
 </div>
 
-**AI/ML:** LLMs · RAG · Agentic AI · Prompt Engineering · Fine-tuning · vLLM · Guardrails · NLP · Computer Vision  
+**AI/ML:** Machine Learning · LLMs · RAG · Agentic AI · Prompt Engineering · Fine-tuning · vLLM · Guardrails · NLP · Computer Vision  
 **Frameworks:** PyTorch · Hugging Face · LangChain · LangGraph · FastAPI · Next.js  
 **Infrastructure & Data:** Azure OpenAI · Azure AI Search · AWS · GCP · Kafka · PostgreSQL · MongoDB · Pinecone · FAISS · MLflow
-
-## 🌐 Developer Community
-
-I care about making technical knowledge accessible and helping developers grow.
-
-- Organized **Google Cloud Community Days Kolkata** — 4,000+ attendees and 70+ speakers.
-- Led a **4,000-member GDSC community**, delivering 37 sessions and 60+ events; guided 3,000+ students.
-- Facilitated Google Cloud Arcade learning for **900+ developers**.
-- Contributed to developer communities, workshops, and technical events reaching thousands.
-- Delivered 50+ talks and live demos on LLMs, RAG, agentic AI, and cloud technologies.
 
 ## 📈 GitHub Dashboard
 
@@ -134,7 +93,7 @@ I care about making technical knowledge accessible and helping developers grow.
 
 <br/><br/>
 
-*Building intelligent systems. Sharing what I learn. Creating impact beyond code.*
+*Building intelligent systems, from models to real-world impact.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer" width="100%" alt="Animated footer"/>
 
