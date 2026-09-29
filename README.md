@@ -25,15 +25,25 @@ Machine Learning Engineer specializing in Generative AI, LLM applications, and a
 - 💼 **Machine Learning Engineer at TeamLease RegTech**, building production AI systems for regulatory and compliance workflows.
 - 🧠 Focused on **LLMs, RAG, agentic AI, model evaluation, and AI-powered automation**.
 - 🧬 Interested in **genomic variant analysis, bioinformatics, and biomedical AI**.
+- 🐾 Founder of **[PawPew](https://www.pawpew.in)**, an AI-powered animal rescue and adoption platform.
 - 🔬 Focused on building useful, measurable, and responsible AI applications.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/GeneralSubhra/variant-analysis-evo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeneralSubhra&repo=variant-analysis-evo2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GenomixAI project card"/></a>
+### 🐾 [PawPew](https://www.pawpew.in)
 
-</div>
+Founded and built PawPew, an AI-powered animal rescue and adoption platform with **500+ users, 70+ animal rescues, and 10+ rescue partners**.
+
+- Built **PawMini AI**, a multilingual first-aid assistant for animals.
+- Selected for the **Sarvam AI Startup Program**.
+- Deployed on **Google Cloud**.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧬 [GenomixAI — DNA Variant Analysis](https://github.com/GeneralSubhra/variant-analysis-evo2)
 
@@ -43,6 +53,10 @@ GPU-accelerated AI platform for DNA variant pathogenicity analysis using **Evo2*
 - Integrates ClinVar and UCSC Genome APIs.
 - ⭐ **21 GitHub stars**
 - Built to explore the application of foundation models to genomic variant analysis.
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
