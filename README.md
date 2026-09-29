@@ -28,22 +28,13 @@ Machine Learning Engineer specializing in Generative AI, LLM applications, and a
 - 🐾 Founder of **[PawPew](https://www.pawpew.in)**, an animal rescue and adoption initiative.
 - 🔬 Focused on building useful, measurable, and responsible AI applications.
 
-## 🚀 Selected Work
+## 🚀 Featured Project
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🐾 [PawPew](https://www.pawpew.in)
+<a href="https://github.com/GeneralSubhra/variant-analysis-evo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeneralSubhra&repo=variant-analysis-evo2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GenomixAI project card"/></a>
 
-Founded and built PawPew, an AI-powered animal rescue and adoption platform with **500+ users, 70+ animal rescues, and 10+ rescue partners**.
-
-- Built **PawMini AI**, a multilingual first-aid assistant for animals.
-- Selected for the **Sarvam AI Startup Program**.
-- Deployed on **Google Cloud**.
-
-</td>
-<td width="50%" valign="top">
+</div>
 
 ### 🧬 [GenomixAI — DNA Variant Analysis](https://github.com/GeneralSubhra/variant-analysis-evo2)
 
@@ -53,10 +44,6 @@ GPU-accelerated AI platform for DNA variant pathogenicity analysis using **Evo2*
 - Integrates ClinVar and UCSC Genome APIs.
 - ⭐ **21 GitHub stars**
 - Built to explore the application of foundation models to genomic variant analysis.
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tech Stack
 
