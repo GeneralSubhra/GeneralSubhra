@@ -22,7 +22,7 @@
 
 I build and deploy AI systems, from production LLM applications and agentic workflows to biomedical machine learning. I enjoy taking ideas from experimentation to reliable, real-world systems.
 
-- 💼 **Machine Learning Engineer at TeamLease RegTech** — promoted from AI Intern.
+- 💼 **Machine Learning Engineer at TeamLease RegTech**, building enterprise AI and compliance intelligence systems.
 - 🧠 Working across **LLMs, RAG, agentic AI, model evaluation, and AI-powered automation**.
 - 🧬 Interested in **genomic variant analysis, bioinformatics, and biomedical AI**.
 - 🐾 Founder of **[PawPew](https://www.pawpew.in)**, an animal rescue and adoption initiative.
