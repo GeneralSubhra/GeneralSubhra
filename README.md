@@ -36,22 +36,23 @@ Machine Learning Engineer specializing in Generative AI, LLM applications, and a
 
 ### 🐾 [PawPew](https://www.pawpew.in)
 
-An animal-welfare platform for rescue reporting, verified-rescuer matching, GPS tracking, and adoption.
+Founded and built PawPew, an AI-powered animal rescue and adoption platform with **500+ users, 70+ animal rescues, and 10+ rescue partners**.
 
-- Built **PawCareAI**, an LLM-powered chatbot offering first-response guidance for injured or sick animals.
-- Building technology to make animal-welfare support more accessible.
-- Selected for the **Sarvam startup program**.
+- Built **PawMini AI**, a multilingual first-aid assistant for animals.
+- Selected for the **Sarvam AI Startup Program**.
+- Deployed on **Google Cloud**.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧬 [GenomixAI — DNA Variant Analysis](https://github.com/GeneralSubhra/variant-analysis-evo2)
 
-A GPU-accelerated platform using the Evo2 model to predict DNA mutation pathogenicity.
+GPU-accelerated AI platform for DNA variant pathogenicity analysis using **Evo2** and **NVIDIA H100 GPUs**.
 
-- Serverless FastAPI backend with NVIDIA H100 inference.
+- Built with FastAPI, Python, and Modal.
 - Integrates ClinVar and UCSC Genome APIs.
-- Built with Python, Evo2, FastAPI, and Modal.
+- ⭐ **21 GitHub stars**
+- Built to explore the application of foundation models to genomic variant analysis.
 
 </td>
 </tr>
