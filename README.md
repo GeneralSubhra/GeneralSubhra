@@ -36,11 +36,11 @@ I build and deploy AI systems, from production LLM applications and agentic work
 
 ### 🐾 [PawPew](https://www.pawpew.in)
 
-Founded and built PawPew, an animal-welfare platform for rescue reporting, verified-rescuer matching, GPS tracking, and adoption.
+An animal-welfare platform for rescue reporting, verified-rescuer matching, GPS tracking, and adoption.
 
 - Built **PawCareAI**, an LLM-powered veterinary first-response chatbot.
 - Supported by the **Sarvam startup program**.
-- Applying AI to make animal-welfare support more accessible.
+- Using AI to make animal-welfare support more accessible.
 
 </td>
 <td width="50%" valign="top">
